@@ -9,3 +9,6 @@ This code must install some software:
 3.eclipse 
 4. eclipse plug-in  windowbuilder. windowbuilder can develope gui very easily. you can install widowbuilder by http://www.eclipse.org/windowbuilder/,  you can refer the article:https://blog.csdn.net/l01997/article/details/78881186
 
+实现了论文：
+[1]刘华明,毕学慧,王秀友,韩天鹏,李冬冬.基于案例过程再现的软件开发能力培养研究——以通讯录管理系统为例[J].韶关学院学报,2018,39(12):23-27.
+
